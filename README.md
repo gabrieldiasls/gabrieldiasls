@@ -12,9 +12,7 @@
 <p>Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
 <p>I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
-<h4>Socials</h4>
-
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
+<h4>LinkedIn <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a></h4>
 
 <br>
 
