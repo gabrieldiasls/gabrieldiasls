@@ -9,7 +9,7 @@
 </ul>
 
 <h3>My professional side 🧠</h3>
-<p>I work with Web Development, specially in the front-end side!</p>
+<p>I work with Web Development, specially on the front-end side!</p>
 
 <h4>Languages</h4>
 <h4>Frameworks and Libraries</h4>
