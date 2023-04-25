@@ -16,6 +16,8 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
 
+<br>
+
 <h4>Languages</h4>
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
 
