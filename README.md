@@ -1,6 +1,6 @@
-<h1>Hello, my name is Gabriel, nice to meet you! 🙂</h1>
+<h2>Hello, my name is Gabriel, nice to meet you! 🙂</h2>
 
-<h2>A little bit about me:</h2>
+<h3>A little bit about me:</h3>
 <ul>
   <li>I'm a tech enthusiast who happens to work with it 🧑🏽‍💻</li>
   <li>I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁</li>
