@@ -12,7 +12,7 @@
 <p>Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
 <p>I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
-<div style="display: flex; flex-flow: row nowrap; align-items: center;">
+<div>
   <h4>LinkedIn</h4>
   <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="30px" style="padding-right: 10px;"   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a>
 </div>
@@ -20,7 +20,10 @@
 <br>
 
 <h4>Languages</h4>
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
 
 <br>
 
