@@ -10,7 +10,7 @@
 
 <h3>My professional side 🧠</h3>
 <p>I work with Web Development, specially on the front-end side!</p>
-<p>Connect with me if you're insterested in work with some projects together, it would be nice!</p>
+<p>Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
 
 <h4>Languages</h4>
 <h4>Frameworks and Libraries</h4>
