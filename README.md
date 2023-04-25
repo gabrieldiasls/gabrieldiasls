@@ -5,14 +5,16 @@
   <li>I'm a tech enthusiast who happens to work with it 🧑🏽‍💻</li>
   <li>I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁</li>
   <li>I just graduated, and I'm currently looking for an employer so I can work with what I love 👀</li>
-  <li>I just finished my last project, Stylify, where I worked more on Front-End 💥</li>
 </ul>
 
 <h3>My professional side 🧠</h3>
 <p>I work with Web Development, specially on the front-end side!</p>
 <p>Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
+<p>I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
 <h4>Languages</h4>
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="" />
+
 <h4>Frameworks and Libraries</h4>
 <h4>Other Tools</h4>
 <h4>Productiviy and Design</h4>
