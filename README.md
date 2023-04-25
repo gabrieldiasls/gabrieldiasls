@@ -18,6 +18,7 @@
 </div>
 
 <br>
+<br>
 
 <h4>Technologies</h4>
 <img align="left" alt="React" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
@@ -36,7 +37,6 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
 
 <br>
-<h4>Other Tools</h4>
 
 <br>
 
