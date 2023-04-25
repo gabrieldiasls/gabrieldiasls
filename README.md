@@ -13,27 +13,27 @@
 <p>I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
 <div>
-  <h4>LinkedIn</h4>
-  <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="30px" style="padding-right: 10px;"   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a>
+  <h4>Connect with me on my LinkedIn:</h4>
+  <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="50px" style="padding-right: 10px;"   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a>
 </div>
 
 <br>
 
 <h4>Technologies</h4>
 <img align="left" alt="React" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
-<img align="left" alt="Prisma" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" />
-<img align="left" alt="Node.JS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
-<img align="left" alt="Wordpress" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+<img align="left" alt="TypeScript" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+<img align="left" alt="MongoDB" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
+<img align="left" alt="Prisma" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" />
+<img align="left" alt="Node.JS" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+<img align="left" alt="Firebase" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
+<img align="left" alt="Wordpress" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+<img align="left" alt="Figma" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
 
 <br>
 <h4>Other Tools</h4>
