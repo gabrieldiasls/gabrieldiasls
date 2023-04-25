@@ -8,6 +8,16 @@
   <li>I just finished my last project, Stylify, where I worked more on Front-End 💥</li>
 </ul>
 
+<h3>My professional side 🧠</h3>
+<p>I work with Web Development, specially in the front-end side!</p>
+
+<h4>Languages</h4>
+<h4>Frameworks and Libraries</h4>
+<h4>Other Tools</h4>
+<h4>Productiviy and Design</h4>
+
+<h3>GitHub Data 💻</h3>
+
 <!--
 **gabrieldiasls/gabrieldiasls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
