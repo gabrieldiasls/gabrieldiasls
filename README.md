@@ -21,7 +21,7 @@
 <br>
 
 <h4>Technologies</h4>
-<div>
+<div style="display: flex; flex: column nowrap;">
 <img align="left" alt="React" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
 <p>React.JS</p>
 </div>
