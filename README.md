@@ -21,7 +21,10 @@
 <br>
 
 <h4>Technologies</h4>
+<div>
 <img align="left" alt="React" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+<p>React.JS</p>
+</div>
 <img align="left" alt="TypeScript" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
