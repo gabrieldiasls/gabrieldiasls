@@ -21,9 +21,7 @@
 <br>
 
 <h4>Technologies</h4>
-<div style="display: flex; flex: column nowrap;">
 <img align="left" alt="React" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-<p>React.JS</p>
 </div>
 <img align="left" alt="TypeScript" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
@@ -38,6 +36,7 @@
 <img align="left" alt="Java" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
 <img align="left" alt="Figma" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+<img align="left" alt="React" width="100px" style="padding-right: 10px;" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" />
 
 <br>
 
