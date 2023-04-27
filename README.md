@@ -16,7 +16,7 @@ Connect with me if you're insterested in work with some projects together, I wil
 I just finished my last project, Stylify, where I worked more on Front-End 💥
 
   #### Connect with me on my LinkedIn:
-  [![Linkedin](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/gabriel-silvestre-dev/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silvestre-dev/)
 
 
 #### Technologies
