@@ -3,14 +3,15 @@
 ### A little bit about me ☄️
 
 I'm a tech enthusiast who happens to work with it 🧑🏽‍💻
+
 I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁
+
 I just graduated, and I'm currently looking for an employer so I can work with what I love 👀
 
-
 ### My professional side 🧠
-I work with Web Development, specially on the front-end side!</p>
-Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
-I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
+I work with Web Development, specially on the front-end side!
+Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects
+I just finished my last project, Stylify, where I worked more on Front-End 💥
 
   #### Connect with me on my LinkedIn:
   [![Linkedin](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/gabriel-silvestre-dev/)
