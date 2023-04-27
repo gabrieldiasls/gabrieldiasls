@@ -2,7 +2,7 @@
 
 ## A little bit about me ☄️
 
-I'm a tech enthusiast who happens to work with it 🧑🏽‍💻
+I'm a tech enthusiast who happens to work with Tech 🧑🏽‍💻
 
 I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁
 
