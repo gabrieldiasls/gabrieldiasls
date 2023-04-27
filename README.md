@@ -1,29 +1,25 @@
-<h2>Hello, my name is Gabriel, nice to meet you! 🙂</h2>
+##Hello, my name is Gabriel, nice to meet you! 🙂
 
-<h3>A little bit about me ☄️</h3>
+###A little bit about me ☄️
 <ul>
   <li>I'm a tech enthusiast who happens to work with it 🧑🏽‍💻</li>
   <li>I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁</li>
   <li>I just graduated, and I'm currently looking for an employer so I can work with what I love 👀</li>
 </ul>
 
-<h3>My professional side 🧠</h3>
-<p>I work with Web Development, specially on the front-end side!</p>
-<p>Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
-<p>I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
+###My professional side 🧠
+I work with Web Development, specially on the front-end side!</p>
+Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
+I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
-<div>
-  <h4>Connect with me on my LinkedIn:</h4>
+  ####Connect with me on my LinkedIn:
   <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="50px" style="padding-right: 10px;"   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a>
-</div>
 
 <br>
 <br>
 
- ![JavaScript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+####Technologies
 
-
-<h4>Technologies</h4>
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
