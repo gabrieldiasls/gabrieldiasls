@@ -1,22 +1,22 @@
-#Hello, my name is Gabriel, nice to meet you! 🙂
+# Hello, my name is Gabriel, nice to meet you! 🙂
 
-###A little bit about me ☄️
+### A little bit about me ☄️
 
 I'm a tech enthusiast who happens to work with it 🧑🏽‍💻
 I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁
 I just graduated, and I'm currently looking for an employer so I can work with what I love 👀
 
 
-###My professional side 🧠
+### My professional side 🧠
 I work with Web Development, specially on the front-end side!</p>
 Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects</p>
 I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
-  ####Connect with me on my LinkedIn:
+  #### Connect with me on my LinkedIn:
   [![Linkedin](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/gabriel-silvestre-dev/)
 
 
-####Technologies
+#### Technologies
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
