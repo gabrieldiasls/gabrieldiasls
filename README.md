@@ -10,7 +10,9 @@ I just graduated, and I'm currently looking for an employer so I can work with w
 
 ### My professional side 🧠
 I work with Web Development, specially on the front-end side!
+
 Connect with me if you're insterested in work with some projects together, I will like to work on different and unique projects
+
 I just finished my last project, Stylify, where I worked more on Front-End 💥
 
   #### Connect with me on my LinkedIn:
