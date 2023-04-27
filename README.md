@@ -1,11 +1,11 @@
 ##Hello, my name is Gabriel, nice to meet you! 🙂
 
 ###A little bit about me ☄️
-<ul>
-  <li>I'm a tech enthusiast who happens to work with it 🧑🏽‍💻</li>
-  <li>I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁</li>
-  <li>I just graduated, and I'm currently looking for an employer so I can work with what I love 👀</li>
-</ul>
+
+I'm a tech enthusiast who happens to work with it 🧑🏽‍💻
+I moved to Vancouver since 2022, and I'm eager to meet new people in town 🍁
+I just graduated, and I'm currently looking for an employer so I can work with what I love 👀
+
 
 ###My professional side 🧠
 I work with Web Development, specially on the front-end side!</p>
@@ -13,10 +13,8 @@ Connect with me if you're insterested in work with some projects together, I wil
 I just finished my last project, Stylify, where I worked more on Front-End 💥</p>
 
   ####Connect with me on my LinkedIn:
-  <a href="https://www.linkedin.com/in/gabriel-silvestre-dev/"><img align="left" alt="Java" width="50px" style="padding-right: 10px;"   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" /></a>
+  [![Linkedin](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/gabriel-silvestre-dev/)
 
-<br>
-<br>
 
 ####Technologies
 
@@ -43,11 +41,6 @@ I just finished my last project, Stylify, where I worked more on Front-End 💥<
 <img align="left" alt="Firebase" src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" />
 <img align="left" alt="Wordpress" src="https://camo.githubusercontent.com/3ff0ab300fb2314dc2b0ee8622e863fdab8bf079afc2d66dc9ec11c0defd2a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666f722d7468652d6261646765266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" />
 <img align="left" alt="Figma" src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" /> -->
-<br>
-
-<br>
-
-<h3>GitHub Data 💻</h3>
 
 <!--
 **gabrieldiasls/gabrieldiasls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
